@@ -3,4 +3,4 @@
 
 # <img alt="wave" src="./assets/wave.gif" width="20px" /> Hello, folks! 
 
-My name is Otávio Bumaruf, currently i work as a backend software engineer at [Goomer](https://www.goomer.com.br)
+My name is Otávio Bumaruf, currently i work as a backend developer at [Goomer](https://www.goomer.com.br)
